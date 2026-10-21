@@ -1,0 +1,52 @@
+{
+  "channel": "2",
+  "date": "2026-08-24",
+  "program": [
+    {
+      "uid": "SE_TEST_1",
+      "begin": 0.0,
+      "title": "NAAM SHABANA",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/2/Adslate.mp4",
+      "in": 0.0,
+      "out": 15.0,
+      "duration": 15.0,
+      "secondary_events": [
+        {
+          "template": "NOW",
+          "offset": 3.0,
+          "duration": 5.0,
+          "text": "NAAM SHABANA"
+        },
+        {
+          "template": "NEXT",
+          "offset": 8.0,
+          "duration": 4.0,
+          "text": "DABANGG 3"
+        },
+        {
+          "template": "LATER",
+          "offset": 12.0,
+          "duration": 4.0,
+          "text": "??????? ???????? 2"
+        }
+      ]
+    },
+    {
+      "uid": "SE_TEST_5",
+      "begin": 15.0,
+      "title": "PROMO",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/2/Ai-30sec.mp4",
+      "in": 0.0,
+      "out": 33.0,
+      "duration": 33.0,
+      "secondary_events": [
+        {
+          "template": "Current-Movie",
+          "offset": 90.0,
+          "duration": 6.0,
+          "text": "NAAM SHABANA"
+        }
+      ]
+    }
+  ]
+}

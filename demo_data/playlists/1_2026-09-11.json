@@ -1,0 +1,118 @@
+{
+  "channel": "test_channel",
+  "date": "2026-09-11",
+  "program": [
+    {
+      "uid": "1k27g2hcu0ef0158583cc7a8",
+      "begin": 0,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv04ef479638ec64",
+      "begin": 6580.021,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv0d4114577a6826",
+      "begin": 13160.042,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv07374471db76c2",
+      "begin": 19740.063,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv06ab64418c024e8",
+      "begin": 26320.084,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv0a71574d59bf148",
+      "begin": 32900.104999999996,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv06fff275689f73",
+      "begin": 39480.126,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv03e1ba99192088",
+      "begin": 46060.147,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv0995dbb277eb0f8",
+      "begin": 52640.168,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv0457ae3c72a5628",
+      "begin": 59220.189,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv0ff5c59172296c",
+      "begin": 65800.20999999999,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv0d586453f1dcf",
+      "begin": 72380.23099999999,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hcv05997695c4efc9",
+      "begin": 78960.25199999998,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    },
+    {
+      "uid": "1k27g2hd00a3625fc619a69",
+      "begin": 85540.27299999997,
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "in": 0,
+      "out": 6580.021,
+      "duration": 6580.021
+    }
+  ]
+}

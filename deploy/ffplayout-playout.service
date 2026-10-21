@@ -1,0 +1,28 @@
+[Unit]
+Description=ffplayout playout server (FastAPI + ffmpeg)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=@APP_USER@
+Group=@APP_USER@
+WorkingDirectory=@APP_DIR@
+EnvironmentFile=-/etc/ffplayout/ffplayout.env
+Environment=FFPU_HOST=@BIND_ADDR@
+Environment=FFPU_PORT=@BIND_PORT@
+Environment=PYTHONUNBUFFERED=1
+ExecStart=@APP_DIR@/.venv/bin/python @APP_DIR@/server.py
+Restart=always
+RestartSec=5
+TimeoutStopSec=20
+KillMode=mixed
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=read-only
+ReadWritePaths=@APP_DIR@/demo_data @APP_DIR@/.npm-cache
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target

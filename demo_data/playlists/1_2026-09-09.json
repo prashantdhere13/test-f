@@ -1,0 +1,144 @@
+{
+  "channel": "1",
+  "date": "2026-09-09",
+  "program": [
+    {
+      "uid": "imp43e7ed64f346",
+      "begin": 0.0,
+      "title": "Deva",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/L11AFLHM0050.mpg",
+      "in": 0.0,
+      "out": 479.96,
+      "duration": 479.96,
+      "secondary_events": [
+        {
+          "template": "NOW",
+          "offset": 15.0,
+          "duration": 20.0,
+          "in": 15.0,
+          "out": 35.0,
+          "text": "Deva"
+        },
+        {
+          "template": "NEXT",
+          "offset": 35.0,
+          "duration": 20.0,
+          "in": 35.0,
+          "out": 55.0,
+          "text": "GANGUBAI KATHIAWADI"
+        },
+        {
+          "template": "LATER",
+          "offset": 55.0,
+          "duration": 20.0,
+          "in": 55.0,
+          "out": 75.0,
+          "text": "????? ????"
+        },
+        {
+          "template": "Current-Movie",
+          "offset": 90.0,
+          "duration": 389.96,
+          "in": 90.0,
+          "out": 479.96,
+          "text": "Deva"
+        },
+        {
+          "template": "NEXT",
+          "offset": 1137.36,
+          "duration": 20.0,
+          "in": 1137.36,
+          "out": 1157.36,
+          "text": "GANGUBAI KATHIAWADI"
+        },
+        {
+          "template": "LATER",
+          "offset": 1157.36,
+          "duration": 20.0,
+          "in": 1157.36,
+          "out": 1177.36,
+          "text": "????? ????"
+        }
+      ]
+    },
+    {
+      "uid": "impbc2f15cc4691",
+      "begin": 479.96,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/P17MECFP0093.mp4",
+      "in": 0.0,
+      "out": 15.0,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "uid": "imp2f492a4b95dd",
+      "begin": 494.96,
+      "title": "Deva",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/L11AFLHM0050.mpg",
+      "in": 0.0,
+      "out": 480.0,
+      "duration": 480.0,
+      "secondary_events": [
+        {
+          "template": "NOW",
+          "offset": 15.0,
+          "duration": 20.0,
+          "in": 15.0,
+          "out": 35.0,
+          "text": "Deva"
+        },
+        {
+          "template": "NEXT",
+          "offset": 35.0,
+          "duration": 20.0,
+          "in": 35.0,
+          "out": 55.0,
+          "text": "GANGUBAI KATHIAWADI"
+        },
+        {
+          "template": "LATER",
+          "offset": 55.0,
+          "duration": 20.0,
+          "in": 55.0,
+          "out": 75.0,
+          "text": "????? ????"
+        },
+        {
+          "template": "Current-Movie",
+          "offset": 90.0,
+          "duration": 360.0,
+          "in": 90.0,
+          "out": 450.0,
+          "text": "Deva"
+        },
+        {
+          "template": "NEXT",
+          "offset": 1137.36,
+          "duration": 20.0,
+          "in": 1137.36,
+          "out": 1157.36,
+          "text": "GANGUBAI KATHIAWADI"
+        },
+        {
+          "template": "LATER",
+          "offset": 1157.36,
+          "duration": 20.0,
+          "in": 1157.36,
+          "out": 1177.36,
+          "text": "????? ????"
+        }
+      ]
+    },
+    {
+      "uid": "imp02ff40b6263c",
+      "begin": 974.96,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/P17MECFP0093.mp4",
+      "in": 0.0,
+      "out": 15.0,
+      "duration": 15.0,
+      "category": "advertisement"
+    }
+  ]
+}

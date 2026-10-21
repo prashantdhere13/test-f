@@ -1,0 +1,5356 @@
+{
+  "channel": "test_channel",
+  "date": "2026-10-15",
+  "program": [
+    {
+      "begin": 0,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin0f8e4ae03ae1558"
+    },
+    {
+      "uid": "1k4t4fuin0b3837b2a239d68",
+      "begin": 300,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 315,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin0bfc7904716b928"
+    },
+    {
+      "uid": "1k4t4fuin0f752608ee00e5",
+      "begin": 615,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 630,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin014f5d4023fd4b8"
+    },
+    {
+      "uid": "1k4t4fuin0cc3343c8ae076",
+      "begin": 930,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 945,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin0b61d52fc1119a"
+    },
+    {
+      "uid": "1k4t4fuin00e42eeb04ee318",
+      "begin": 1245,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 1260,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin0d61d44afc3e588"
+    },
+    {
+      "uid": "1k4t4fuin0ef7477bf391478",
+      "begin": 1560,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 1575,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin0017d3fdf7fdc"
+    },
+    {
+      "uid": "1k4t4fuin03267362274d698",
+      "begin": 1875,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 1890,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuin0e0a9d58c48c2b"
+    },
+    {
+      "uid": "1k4t4fuio09bfc3604fa805",
+      "begin": 2190,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 2205,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio085364d49048de8"
+    },
+    {
+      "uid": "1k4t4fuio0ece52b2aa06ee8",
+      "begin": 2505,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 2520,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio00a309fb47aadb8"
+    },
+    {
+      "uid": "1k4t4fuio0941bf6ef797f08",
+      "begin": 2820,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 2835,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0afb5e18346da1"
+    },
+    {
+      "uid": "1k4t4fuio0a36d2c24cb955",
+      "begin": 3135,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 3150,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio039539279964e7"
+    },
+    {
+      "uid": "1k4t4fuio0a007de8d42b508",
+      "begin": 3450,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 3465,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0a9f96a5b1d57e8"
+    },
+    {
+      "uid": "1k4t4fuio04f51306a41982",
+      "begin": 3765,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 3780,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio076e506740af69"
+    },
+    {
+      "uid": "1k4t4fuio0f07351513b7348",
+      "begin": 4080,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 4095,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio033920074d87ed8"
+    },
+    {
+      "uid": "1k4t4fuio0897cac4f9e1558",
+      "begin": 4395,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 4410,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio087dd6d9e0c8998"
+    },
+    {
+      "uid": "1k4t4fuio0272f8b0bf7bf9",
+      "begin": 4710,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 4725,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio02e6c5e950ccff8"
+    },
+    {
+      "uid": "1k4t4fuio07d405baab41a5",
+      "begin": 5025,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 5040,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio00049d6f61b5248"
+    },
+    {
+      "uid": "1k4t4fuio0a8e3a3e7c2bdc",
+      "begin": 5340,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 5355,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio02387a8799ee638"
+    },
+    {
+      "uid": "1k4t4fuio04dc5cb2f856cd8",
+      "begin": 5655,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 5670,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0e609f9c58c9c78"
+    },
+    {
+      "begin": 5970,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0008366f6dc1718"
+    },
+    {
+      "uid": "1k4t4fuio036b11c38c0a33",
+      "begin": 6270,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 6285,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0baa002b807163"
+    },
+    {
+      "uid": "1k4t4fuio0e14e7fa495dae8",
+      "begin": 6585,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 6600,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio08aaa72697afdf"
+    },
+    {
+      "uid": "1k4t4fuio0c396cbb2259988",
+      "begin": 6900,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 6915,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio07e2cf67ea11e18"
+    },
+    {
+      "uid": "1k4t4fuio0e1a92c6ed253d",
+      "begin": 7215,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 7230,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0204d8040f026f"
+    },
+    {
+      "uid": "1k4t4fuio0563d54fcd163a8",
+      "begin": 7530,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 7545,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0d278076ba183f8"
+    },
+    {
+      "uid": "1k4t4fuio0f5e26ab80c0408",
+      "begin": 7845,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 7860,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio07d99e56a3d7308"
+    },
+    {
+      "uid": "1k4t4fuio02bbdebaefce2a8",
+      "begin": 8160,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 8175,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio061032e137416a8"
+    },
+    {
+      "uid": "1k4t4fuio01bc4d4d13b03e",
+      "begin": 8475,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 8490,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0f87bf4cfc76f58"
+    },
+    {
+      "uid": "1k4t4fuio04511c452ace86",
+      "begin": 8790,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 8805,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0e47766211a8f1"
+    },
+    {
+      "uid": "1k4t4fuio0fbef0a97b89cb8",
+      "begin": 9105,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 9120,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio026c8467eed357"
+    },
+    {
+      "uid": "1k4t4fuio01f45f600b40f9",
+      "begin": 9420,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 9435,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuio0b8f2d14c8e814"
+    },
+    {
+      "uid": "1k4t4fuio09806d800960d38",
+      "begin": 9735,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 9750,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0a8dcbf77ebd2d8"
+    },
+    {
+      "uid": "1k4t4fuip0129289348ba0e",
+      "begin": 10050,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 10065,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0ad9bef802f77c"
+    },
+    {
+      "uid": "1k4t4fuip0b953bc18da8bc",
+      "begin": 10365,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 10380,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0cb7fb997ca924"
+    },
+    {
+      "uid": "1k4t4fuip02ebdba4c4e1248",
+      "begin": 10680,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 10695,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0f75ba9dc69a9f"
+    },
+    {
+      "uid": "1k4t4fuip06ec558cba5adc",
+      "begin": 10995,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 11010,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip066b0c700d8c8f"
+    },
+    {
+      "uid": "1k4t4fuip091965d5bf0de2",
+      "begin": 11310,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 11325,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0aa5beec785a908"
+    },
+    {
+      "uid": "1k4t4fuip0c6bd404cbfa8e",
+      "begin": 11625,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 11640,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0382425916bb67"
+    },
+    {
+      "begin": 11940,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip04ac728475b2988"
+    },
+    {
+      "uid": "1k4t4fuip06a5d27a05b02f8",
+      "begin": 12240,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 12255,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0d2ea46d9dc8308"
+    },
+    {
+      "uid": "1k4t4fuip03856fbc54f0168",
+      "begin": 12555,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 12570,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0085e0e5f06177"
+    },
+    {
+      "uid": "1k4t4fuip0ece38d6016bd68",
+      "begin": 12870,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 12885,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip015026eb629dbf"
+    },
+    {
+      "uid": "1k4t4fuip0781a521cfa1608",
+      "begin": 13185,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 13200,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0f851355f4d804"
+    },
+    {
+      "uid": "1k4t4fuip061b392d90f8648",
+      "begin": 13500,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 13515,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0d988f9e4712b68"
+    },
+    {
+      "uid": "1k4t4fuip0446e4ec9f71dc8",
+      "begin": 13815,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 13830,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0f8ace9e129704"
+    },
+    {
+      "uid": "1k4t4fuip04d3a382cffb838",
+      "begin": 14130,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 14145,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip04525021150bb8"
+    },
+    {
+      "uid": "1k4t4fuip08d6b01ef068d88",
+      "begin": 14445,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 14460,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip038fd89346023e8"
+    },
+    {
+      "uid": "1k4t4fuip0340faa764d372",
+      "begin": 14760,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 14775,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip071422099d044d"
+    },
+    {
+      "uid": "1k4t4fuip020080901b2d508",
+      "begin": 15075,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 15090,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip061ce27f96c86c"
+    },
+    {
+      "uid": "1k4t4fuip0bd3062493d7ac8",
+      "begin": 15390,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 15405,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip05c2afd60911b88"
+    },
+    {
+      "uid": "1k4t4fuip0ca19d3b91a08b8",
+      "begin": 15705,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 15720,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip0bdb74abf7c0a1"
+    },
+    {
+      "uid": "1k4t4fuip09f3279efaed71",
+      "begin": 16020,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 16035,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuip04139752e8b0648"
+    },
+    {
+      "uid": "1k4t4fuip029be9731b6e078",
+      "begin": 16335,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 16350,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq080bc42d25fd538"
+    },
+    {
+      "uid": "1k4t4fuiq0bc1b7cfba9edb",
+      "begin": 16650,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 16665,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0522f21bee1cc18"
+    },
+    {
+      "uid": "1k4t4fuiq014604347f270e8",
+      "begin": 16965,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 16980,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0a1c267ccccdd"
+    },
+    {
+      "uid": "1k4t4fuiq0296b2834b32fa",
+      "begin": 17280,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 17295,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq06585d1122d2768"
+    },
+    {
+      "uid": "1k4t4fuiq0f5b4b7c8747c28",
+      "begin": 17595,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 17610,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq017060043ccb93"
+    },
+    {
+      "begin": 17910,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq03d8aa9dec1dff8"
+    },
+    {
+      "uid": "1k4t4fuiq008630234513608",
+      "begin": 18210,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 18225,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0ba3991b41a283"
+    },
+    {
+      "uid": "1k4t4fuiq086ff18248c45e8",
+      "begin": 18525,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 18540,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0e6baa25d889218"
+    },
+    {
+      "uid": "1k4t4fuiq071f1abba84e6b",
+      "begin": 18840,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 18855,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq03c7b1b9322b31"
+    },
+    {
+      "uid": "1k4t4fuiq0ad4738f2bbc298",
+      "begin": 19155,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 19170,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq03e588d609248b"
+    },
+    {
+      "uid": "1k4t4fuiq0cc6facd43f8c2",
+      "begin": 19470,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 19485,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0de4cb20f37853"
+    },
+    {
+      "uid": "1k4t4fuiq0ec3cc4f6605d9",
+      "begin": 19785,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 19800,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq025cc54ef121e3"
+    },
+    {
+      "uid": "1k4t4fuiq0b5be4ac3d13e28",
+      "begin": 20100,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 20115,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0086cbe1006b4c8"
+    },
+    {
+      "uid": "1k4t4fuiq0eff6da13731c18",
+      "begin": 20415,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 20430,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0ff8d126fb35808"
+    },
+    {
+      "uid": "1k4t4fuiq005ceed5593087",
+      "begin": 20730,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 20745,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0be0b4a96b38008"
+    },
+    {
+      "uid": "1k4t4fuiq08975003bf0936",
+      "begin": 21045,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 21060,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq057201e3da78128"
+    },
+    {
+      "uid": "1k4t4fuiq0ef72debcd83fe8",
+      "begin": 21360,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 21375,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq07996402bdd2dc"
+    },
+    {
+      "uid": "1k4t4fuiq02677cabd3c991",
+      "begin": 21675,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 21690,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0a6f47158ad31c"
+    },
+    {
+      "uid": "1k4t4fuiq05fd6cf20fd1a1",
+      "begin": 21990,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 22005,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiq0893b3201705048"
+    },
+    {
+      "uid": "1k4t4fuiq082e45ce3d4fb88",
+      "begin": 22305,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 22320,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0eee108cafaa688"
+    },
+    {
+      "uid": "1k4t4fuir019ce26cc49c34",
+      "begin": 22620,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 22635,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0916eb0246fa848"
+    },
+    {
+      "uid": "1k4t4fuir00e59699a1341b8",
+      "begin": 22935,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 22950,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir08a22a7b0ccf7b8"
+    },
+    {
+      "uid": "1k4t4fuir0cac07b8c444a8",
+      "begin": 23250,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 23265,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0d838191c4fa978"
+    },
+    {
+      "uid": "1k4t4fuir077e5c8e9c02e98",
+      "begin": 23565,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 23580,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir010c5c907d7223"
+    },
+    {
+      "begin": 23880,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0fe0010fa00282"
+    },
+    {
+      "uid": "1k4t4fuir0694ef985df2b",
+      "begin": 24180,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 24195,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0ec4f46e1c7e698"
+    },
+    {
+      "uid": "1k4t4fuir08830a2d45317",
+      "begin": 24495,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 24510,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir01addb0fc91a79"
+    },
+    {
+      "uid": "1k4t4fuir06512819b335c58",
+      "begin": 24810,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 24825,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0cc0fb971a92b48"
+    },
+    {
+      "uid": "1k4t4fuir099634ed57d77f8",
+      "begin": 25125,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 25140,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir006c7c5b34e9cb8"
+    },
+    {
+      "uid": "1k4t4fuir01626232b518d78",
+      "begin": 25440,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 25455,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0e972b1a57d1128"
+    },
+    {
+      "uid": "1k4t4fuir041c563d4138c2",
+      "begin": 25755,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 25770,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir009176549930e18"
+    },
+    {
+      "uid": "1k4t4fuir0b157779ca8eb48",
+      "begin": 26070,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 26085,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir085056b42bf3cd"
+    },
+    {
+      "uid": "1k4t4fuir0016843c39a64e",
+      "begin": 26385,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 26400,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0db429124972a8"
+    },
+    {
+      "uid": "1k4t4fuir03f9347e41f0778",
+      "begin": 26700,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 26715,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0d22af2c0514ef"
+    },
+    {
+      "uid": "1k4t4fuir07c865b6fedcf4",
+      "begin": 27015,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 27030,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir05143e36989fb08"
+    },
+    {
+      "uid": "1k4t4fuir07cd645ca1c1c08",
+      "begin": 27330,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 27345,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir080555eb7e98268"
+    },
+    {
+      "uid": "1k4t4fuir01e8cdf828e36e",
+      "begin": 27645,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 27660,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir03a3c317303ec78"
+    },
+    {
+      "uid": "1k4t4fuir0db671018fbcb2",
+      "begin": 27960,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 27975,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0eaa8eed188832"
+    },
+    {
+      "uid": "1k4t4fuir01bc3e0a14dd948",
+      "begin": 28275,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 28290,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir07a5783a4924f"
+    },
+    {
+      "uid": "1k4t4fuir0024ac985260d7",
+      "begin": 28590,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 28605,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir09a1c923821b9e"
+    },
+    {
+      "uid": "1k4t4fuir0c988a956347718",
+      "begin": 28905,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 28920,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir04b3cf124731278"
+    },
+    {
+      "uid": "1k4t4fuir0168a97046903a8",
+      "begin": 29220,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 29235,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir038872a555f06b"
+    },
+    {
+      "uid": "1k4t4fuir0a339c29b8d40d8",
+      "begin": 29535,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 29550,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir081036574154d2"
+    },
+    {
+      "begin": 29850,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir08e00a9d9ec833"
+    },
+    {
+      "uid": "1k4t4fuir056f1cb4f221a08",
+      "begin": 30150,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 30165,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0adfa8f55ee57e8"
+    },
+    {
+      "uid": "1k4t4fuir00b99efc8a9486",
+      "begin": 30465,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 30480,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir00ad83be0463778"
+    },
+    {
+      "uid": "1k4t4fuir0d39993e5272ab",
+      "begin": 30780,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 30795,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir098ac92844604d"
+    },
+    {
+      "uid": "1k4t4fuir092c862f3dd338",
+      "begin": 31095,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 31110,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir03408b847aba018"
+    },
+    {
+      "uid": "1k4t4fuir01f4fdd9f84f448",
+      "begin": 31410,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 31425,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir08691b0fc074ee8"
+    },
+    {
+      "uid": "1k4t4fuir0780455137cea88",
+      "begin": 31725,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 31740,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir073366fdc9ac96"
+    },
+    {
+      "uid": "1k4t4fuir06cf0a32e2a21",
+      "begin": 32040,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 32055,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0ed6f1e76cfc59"
+    },
+    {
+      "uid": "1k4t4fuir0eb4b829c2a9408",
+      "begin": 32355,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 32370,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir0b1546c2f5dfc48"
+    },
+    {
+      "uid": "1k4t4fuir0189b17224c99e",
+      "begin": 32670,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 32685,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir09ed1ecdb43cf1"
+    },
+    {
+      "uid": "1k4t4fuir034dcebab3228f",
+      "begin": 32985,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 33000,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir00c28bfa8c4c2f"
+    },
+    {
+      "uid": "1k4t4fuir008e4e11dccca8",
+      "begin": 33300,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 33315,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuir03652365fa16168"
+    },
+    {
+      "uid": "1k4t4fuis0be62980bb1c01",
+      "begin": 33615,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 33630,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0d8011d98cc4ec8"
+    },
+    {
+      "uid": "1k4t4fuis023d5c7546202f8",
+      "begin": 33930,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 33945,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0787a4876672dc8"
+    },
+    {
+      "uid": "1k4t4fuis0cad7145aef21a",
+      "begin": 34245,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 34260,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis097d8beb47fb41"
+    },
+    {
+      "uid": "1k4t4fuis07ab92d628bac7",
+      "begin": 34560,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 34575,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis09da05339aa80a"
+    },
+    {
+      "uid": "1k4t4fuis074e4e481d0096",
+      "begin": 34875,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 34890,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis07228cfd8ae59"
+    },
+    {
+      "uid": "1k4t4fuis03c8bf58377c448",
+      "begin": 35190,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 35205,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0df4bbaef3dab4"
+    },
+    {
+      "uid": "1k4t4fuis0e07c2b3e434ae",
+      "begin": 35505,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 35520,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0498f058e578f28"
+    },
+    {
+      "begin": 35820,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis088ef545e072ad8"
+    },
+    {
+      "uid": "1k4t4fuis00872c7475bf538",
+      "begin": 36120,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 36135,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0b0873ce5ba9298"
+    },
+    {
+      "uid": "1k4t4fuis004c6922436339",
+      "begin": 36435,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 36450,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0dada7572fab508"
+    },
+    {
+      "uid": "1k4t4fuis0cfed0db6eabbb8",
+      "begin": 36750,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 36765,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis03ba0c81fc4ad9"
+    },
+    {
+      "uid": "1k4t4fuis0074282525b707",
+      "begin": 37065,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 37080,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0bc420720b22e8"
+    },
+    {
+      "uid": "1k4t4fuis00bd5151774317",
+      "begin": 37380,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 37395,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0df5e8d7fe5c87"
+    },
+    {
+      "uid": "1k4t4fuis047a2cbc9dfa3",
+      "begin": 37695,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 37710,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0281711b14ac238"
+    },
+    {
+      "uid": "1k4t4fuis0cb63eb1a7a3a2",
+      "begin": 38010,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 38025,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis034777606bc8498"
+    },
+    {
+      "uid": "1k4t4fuis0dcd6bbf350d4c8",
+      "begin": 38325,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 38340,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis09d7de3a5dc791"
+    },
+    {
+      "uid": "1k4t4fuis08611b1127deb",
+      "begin": 38640,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 38655,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0bb89f571b9e09"
+    },
+    {
+      "uid": "1k4t4fuis09e3dbfb5d0ab38",
+      "begin": 38955,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 38970,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis01990984be22da8"
+    },
+    {
+      "uid": "1k4t4fuis0d48b45c710fcb",
+      "begin": 39270,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 39285,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0e12c94b24b8d48"
+    },
+    {
+      "uid": "1k4t4fuis0e719d2765e77a8",
+      "begin": 39585,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 39600,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis05b0ac0855d8d88"
+    },
+    {
+      "uid": "1k4t4fuis0bf15dbbb4924d",
+      "begin": 39900,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 39915,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0a198f75ee5eed"
+    },
+    {
+      "uid": "1k4t4fuis0be207c4bb863f",
+      "begin": 40215,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 40230,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis069141708ce4ee"
+    },
+    {
+      "uid": "1k4t4fuis0810ff0b8c0702",
+      "begin": 40530,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 40545,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis09db4be6fdddeb"
+    },
+    {
+      "uid": "1k4t4fuis07904c3d784598",
+      "begin": 40845,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 40860,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0936ae202475dc"
+    },
+    {
+      "uid": "1k4t4fuis056a879fe59a648",
+      "begin": 41160,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 41175,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0c46a6e54d6f69"
+    },
+    {
+      "uid": "1k4t4fuis06d75ecb0d45af",
+      "begin": 41475,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 41490,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis09da53fb01f099"
+    },
+    {
+      "begin": 41790,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis09288c702a6a208"
+    },
+    {
+      "uid": "1k4t4fuis01cb245183f14d",
+      "begin": 42090,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 42105,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis00b5ca65f055e08"
+    },
+    {
+      "uid": "1k4t4fuis062c9c058e0034",
+      "begin": 42405,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 42420,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0a8cdbe37c688f8"
+    },
+    {
+      "uid": "1k4t4fuis06a742322283038",
+      "begin": 42720,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 42735,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0cdcb0bd643596"
+    },
+    {
+      "uid": "1k4t4fuis0eea310204fe56",
+      "begin": 43035,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 43050,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0937aac3d11e318"
+    },
+    {
+      "uid": "1k4t4fuis0b4bf785daf594",
+      "begin": 43350,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 43365,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0bebdc2a51db1"
+    },
+    {
+      "uid": "1k4t4fuis058a70f5cf1e61",
+      "begin": 43665,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 43680,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis08d9835513a8d1"
+    },
+    {
+      "uid": "1k4t4fuis063681605915e08",
+      "begin": 43980,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 43995,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis09a82d9ea953b88"
+    },
+    {
+      "uid": "1k4t4fuis06a629ae055c05",
+      "begin": 44295,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 44310,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0d98a720e607ba8"
+    },
+    {
+      "uid": "1k4t4fuis01d54d55354035",
+      "begin": 44610,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 44625,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis04b594c28839b4"
+    },
+    {
+      "uid": "1k4t4fuis09c0ad4c2c14e6",
+      "begin": 44925,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 44940,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis063f32ae392df2"
+    },
+    {
+      "uid": "1k4t4fuis02687d34867167",
+      "begin": 45240,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 45255,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis034bb91da0b0758"
+    },
+    {
+      "uid": "1k4t4fuis072890ea76211d8",
+      "begin": 45555,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 45570,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis052d60a7286c918"
+    },
+    {
+      "uid": "1k4t4fuis0b2f072be39eff",
+      "begin": 45870,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 45885,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0a8d698906f8348"
+    },
+    {
+      "uid": "1k4t4fuis0590985d1b207d8",
+      "begin": 46185,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 46200,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0f7eadae238bad8"
+    },
+    {
+      "uid": "1k4t4fuis005b8506a1d0cd8",
+      "begin": 46500,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 46515,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0a1310785fa9448"
+    },
+    {
+      "uid": "1k4t4fuis064885b1ec32e5",
+      "begin": 46815,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 46830,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0884a6fa05bf2e8"
+    },
+    {
+      "uid": "1k4t4fuis0b5618e2307624",
+      "begin": 47130,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 47145,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0fd450b589ba07"
+    },
+    {
+      "uid": "1k4t4fuis0595ffe59b6fc6",
+      "begin": 47445,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 47460,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0cfcd677bd464e8"
+    },
+    {
+      "begin": 47760,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis069b8de47173d38"
+    },
+    {
+      "uid": "1k4t4fuis0d89313bb3da958",
+      "begin": 48060,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 48075,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis03a4e6741bf52b8"
+    },
+    {
+      "uid": "1k4t4fuis0ff9bff696d0558",
+      "begin": 48375,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 48390,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0242e6f89a900b"
+    },
+    {
+      "uid": "1k4t4fuis0f97fd2f99e0d1",
+      "begin": 48690,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 48705,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis00f7df848bc8ac8"
+    },
+    {
+      "uid": "1k4t4fuis0982b70729749b",
+      "begin": 49005,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 49020,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis02d5020c9e26938"
+    },
+    {
+      "uid": "1k4t4fuis0f658b1ac03d4b8",
+      "begin": 49320,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 49335,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis06dd65075d38308"
+    },
+    {
+      "uid": "1k4t4fuis03d7f7075099bc8",
+      "begin": 49635,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 49650,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis012c0d8fa1e1b28"
+    },
+    {
+      "uid": "1k4t4fuis02fbd254f641f7",
+      "begin": 49950,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 49965,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis099eae8144d1218"
+    },
+    {
+      "uid": "1k4t4fuis0d263f7d8456488",
+      "begin": 50265,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 50280,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis04f12d6f7f6704"
+    },
+    {
+      "uid": "1k4t4fuis0afc984f41c62d8",
+      "begin": 50580,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 50595,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0e4ba5bb299be3"
+    },
+    {
+      "uid": "1k4t4fuis0bae39a3e0e44a8",
+      "begin": 50895,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 50910,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0ee63fb77b18888"
+    },
+    {
+      "uid": "1k4t4fuis01281876c934998",
+      "begin": 51210,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 51225,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis040461e0cc5d5e"
+    },
+    {
+      "uid": "1k4t4fuis0f7770ee4dae02",
+      "begin": 51525,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 51540,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0b09bdc94bcbbf"
+    },
+    {
+      "uid": "1k4t4fuis02bcf8327013c88",
+      "begin": 51840,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 51855,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis010d61a016e8b3"
+    },
+    {
+      "uid": "1k4t4fuis0ef8609d9a3c34",
+      "begin": 52155,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 52170,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0dee92257802c6"
+    },
+    {
+      "uid": "1k4t4fuis0447107eeb77538",
+      "begin": 52470,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 52485,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis031c7a30371b88"
+    },
+    {
+      "uid": "1k4t4fuis0f47aa6e271c288",
+      "begin": 52785,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 52800,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis048ebfab1121128"
+    },
+    {
+      "uid": "1k4t4fuis05f489eba88bf58",
+      "begin": 53100,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 53115,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0fbe3e7184ef22"
+    },
+    {
+      "uid": "1k4t4fuis03ddf897a3d5b98",
+      "begin": 53415,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 53430,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0ae536240af14f"
+    },
+    {
+      "begin": 53730,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis02bd6c52e70e46"
+    },
+    {
+      "uid": "1k4t4fuis05dc8b466371b48",
+      "begin": 54030,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 54045,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0daea4425c1544"
+    },
+    {
+      "uid": "1k4t4fuis0b02f0a2d846928",
+      "begin": 54345,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 54360,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis082257e6c712aa8"
+    },
+    {
+      "uid": "1k4t4fuis0bab40c94ec83d",
+      "begin": 54660,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 54675,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0a675fd749e7158"
+    },
+    {
+      "uid": "1k4t4fuis0b55be29f5d9958",
+      "begin": 54975,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 54990,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0489557a8620b5"
+    },
+    {
+      "uid": "1k4t4fuis0d9e4cb42040a58",
+      "begin": 55290,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 55305,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis0dce0886178704"
+    },
+    {
+      "uid": "1k4t4fuis027f9a8cf76ad28",
+      "begin": 55605,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 55620,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis07a6cc99bcb4d3"
+    },
+    {
+      "uid": "1k4t4fuis0da1d6a1371ac8",
+      "begin": 55920,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 55935,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuis05603fb282ef238"
+    },
+    {
+      "uid": "1k4t4fuis0769da7977faa9",
+      "begin": 56235,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 56250,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0b481429147c118"
+    },
+    {
+      "uid": "1k4t4fuit01a23f90bd0be",
+      "begin": 56550,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 56565,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit02d46a9a0d61888"
+    },
+    {
+      "uid": "1k4t4fuit0a9ba8d62df9ed",
+      "begin": 56865,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 56880,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0cc9e8f76ee1d3"
+    },
+    {
+      "uid": "1k4t4fuit012339e115f667",
+      "begin": 57180,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 57195,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit08a0e4d36e9cc8"
+    },
+    {
+      "uid": "1k4t4fuit06309ee61699888",
+      "begin": 57495,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 57510,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit07b6e9e23d58628"
+    },
+    {
+      "uid": "1k4t4fuit0e8917cdcb3321",
+      "begin": 57810,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 57825,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit07f13dd27f112b8"
+    },
+    {
+      "uid": "1k4t4fuit024e09026e48ab8",
+      "begin": 58125,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 58140,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit019d33fe6391618"
+    },
+    {
+      "uid": "1k4t4fuit0067d8585b2fa1",
+      "begin": 58440,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 58455,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0fdc6cbf6963ac"
+    },
+    {
+      "uid": "1k4t4fuit03a84540726f57",
+      "begin": 58755,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 58770,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0368ac56f246c8"
+    },
+    {
+      "uid": "1k4t4fuit0fd730b2d91e88",
+      "begin": 59070,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 59085,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit00e7b7c6e00e68"
+    },
+    {
+      "uid": "1k4t4fuit056515154e4e568",
+      "begin": 59385,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 59400,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit09cd62c656c029"
+    },
+    {
+      "begin": 59700,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0e0b776bf813e5"
+    },
+    {
+      "uid": "1k4t4fuit04e8b02d0096988",
+      "begin": 60000,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 60015,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0ce10aebc354"
+    },
+    {
+      "uid": "1k4t4fuit0d78b6366164c2",
+      "begin": 60315,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 60330,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit067950ca901143"
+    },
+    {
+      "uid": "1k4t4fuit04b144d554dada",
+      "begin": 60630,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 60645,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit078ffcfd5d3af68"
+    },
+    {
+      "uid": "1k4t4fuit075449b770ecd8",
+      "begin": 60945,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 60960,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit00352ac5d14d17"
+    },
+    {
+      "uid": "1k4t4fuit0ca87cdd416fda8",
+      "begin": 61260,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 61275,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0b7bfcffa0e0cb"
+    },
+    {
+      "uid": "1k4t4fuit0d3339698cff63",
+      "begin": 61575,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 61590,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit01673027fa7948"
+    },
+    {
+      "uid": "1k4t4fuit0b7b7a150d1be68",
+      "begin": 61890,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 61905,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0e120bfcfd3b0c8"
+    },
+    {
+      "uid": "1k4t4fuit0c1020e4cfdffa8",
+      "begin": 62205,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 62220,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit077fbabb308e4b"
+    },
+    {
+      "uid": "1k4t4fuit0a078a96b9c7cc8",
+      "begin": 62520,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 62535,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit00e090285ce9978"
+    },
+    {
+      "uid": "1k4t4fuit09bbe75d2c162b",
+      "begin": 62835,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 62850,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit052cca68751bfe"
+    },
+    {
+      "uid": "1k4t4fuit0882f19ca6a1b88",
+      "begin": 63150,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 63165,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0f1f76a960e5e38"
+    },
+    {
+      "uid": "1k4t4fuit090a1056f76174",
+      "begin": 63465,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 63480,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit051a06995078b9"
+    },
+    {
+      "uid": "1k4t4fuit0288a650017622",
+      "begin": 63780,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 63795,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0a16de933524488"
+    },
+    {
+      "uid": "1k4t4fuit0f8af4d88b3e408",
+      "begin": 64095,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 64110,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0bbeae9133a7a"
+    },
+    {
+      "uid": "1k4t4fuit086d55efcaf9de8",
+      "begin": 64410,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 64425,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit051891daf81818"
+    },
+    {
+      "uid": "1k4t4fuit0494b93ed7271b",
+      "begin": 64725,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 64740,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit01f80bdda201b88"
+    },
+    {
+      "uid": "1k4t4fuit0df7e0e9a8a6118",
+      "begin": 65040,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 65055,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit092ed785932f33"
+    },
+    {
+      "uid": "1k4t4fuit080310efc8ae5c8",
+      "begin": 65355,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 65370,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0bfc9efd0b15ca"
+    },
+    {
+      "begin": 65670,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0c0df543dbd445"
+    },
+    {
+      "uid": "1k4t4fuit01a7e7e46d6d048",
+      "begin": 65970,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 65985,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit02ebbd51fb1b478"
+    },
+    {
+      "uid": "1k4t4fuit0b5c9f29ae5e398",
+      "begin": 66285,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 66300,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit076d95b404c198"
+    },
+    {
+      "uid": "1k4t4fuit06c59a97de38f58",
+      "begin": 66600,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 66615,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit095862c194b443"
+    },
+    {
+      "uid": "1k4t4fuit06a2a44d1f032b",
+      "begin": 66915,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 66930,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0014d67ead977a8"
+    },
+    {
+      "uid": "1k4t4fuit0321b00ab5df4e8",
+      "begin": 67230,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 67245,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit037225a5df3dee8"
+    },
+    {
+      "uid": "1k4t4fuit0d998412aa1b28",
+      "begin": 67545,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 67560,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0f36c002648b0f8"
+    },
+    {
+      "uid": "1k4t4fuit08b62597d18dea",
+      "begin": 67860,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 67875,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit064dab01d1657b8"
+    },
+    {
+      "uid": "1k4t4fuit08ee3d9b4c2913",
+      "begin": 68175,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 68190,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit03b6dcb81613e4"
+    },
+    {
+      "uid": "1k4t4fuit0d22c259aa3598",
+      "begin": 68490,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 68505,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0576d2d2b3be16"
+    },
+    {
+      "uid": "1k4t4fuit046ce93ed2dc42",
+      "begin": 68805,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 68820,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0d9070702152f58"
+    },
+    {
+      "uid": "1k4t4fuit0999130ab649aa8",
+      "begin": 69120,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 69135,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0325f158a20197"
+    },
+    {
+      "uid": "1k4t4fuit02e9f114107b4e",
+      "begin": 69435,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 69450,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit011701d7fafab8"
+    },
+    {
+      "uid": "1k4t4fuit0154d2b8c82d9d",
+      "begin": 69750,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 69765,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit043a50ce89305"
+    },
+    {
+      "uid": "1k4t4fuit0efa27e766fbe48",
+      "begin": 70065,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 70080,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit01766c33de946c8"
+    },
+    {
+      "uid": "1k4t4fuit07c7d193f4b723",
+      "begin": 70380,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 70395,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0c32bd8db94fb88"
+    },
+    {
+      "uid": "1k4t4fuit0a6149937a852e8",
+      "begin": 70695,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 70710,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit048b79370bfb2e8"
+    },
+    {
+      "uid": "1k4t4fuit0163f0a91eec52",
+      "begin": 71010,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 71025,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit007a7366b85f71"
+    },
+    {
+      "uid": "1k4t4fuit0b861f19d68e028",
+      "begin": 71325,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 71340,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0e9f399749a5bc8"
+    },
+    {
+      "begin": 71640,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit01ef614a6a419c"
+    },
+    {
+      "uid": "1k4t4fuit0fab5bac7dc02a",
+      "begin": 71940,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 71955,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit08f59676f96bd98"
+    },
+    {
+      "uid": "1k4t4fuit0f0b1dd729c10a",
+      "begin": 72255,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 72270,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0a991739e4b3258"
+    },
+    {
+      "uid": "1k4t4fuit06ead710df21c98",
+      "begin": 72570,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 72585,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit09651f23f121718"
+    },
+    {
+      "uid": "1k4t4fuit0b09eeea68557b8",
+      "begin": 72885,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 72900,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0fa7fa3101b8f1"
+    },
+    {
+      "uid": "1k4t4fuit0e59b76c1aba9b8",
+      "begin": 73200,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 73215,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0630a0bb4df1608"
+    },
+    {
+      "uid": "1k4t4fuit0de54b0236fbfd",
+      "begin": 73515,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 73530,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit063b9ee2e3d5cd"
+    },
+    {
+      "uid": "1k4t4fuit0141d8603d7fcc8",
+      "begin": 73830,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 73845,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuit0c9028cb5d4e2d"
+    },
+    {
+      "uid": "1k4t4fuiu0b2f93055f40d58",
+      "begin": 74145,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 74160,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0ed221309518108"
+    },
+    {
+      "uid": "1k4t4fuiu019331651542e",
+      "begin": 74460,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 74475,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0a9a877e2269aa"
+    },
+    {
+      "uid": "1k4t4fuiu0b91b3058240508",
+      "begin": 74775,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 74790,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu020a677d930245"
+    },
+    {
+      "uid": "1k4t4fuiu0fbb93768d961d",
+      "begin": 75090,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 75105,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0edaab8908f9738"
+    },
+    {
+      "uid": "1k4t4fuiu035dc6c3ff9f618",
+      "begin": 75405,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 75420,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0507a1a5d35e8f8"
+    },
+    {
+      "uid": "1k4t4fuiu03a9cc012f90148",
+      "begin": 75720,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 75735,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0b8cd51658e9b2"
+    },
+    {
+      "uid": "1k4t4fuiu065b7388296569",
+      "begin": 76035,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 76050,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu02032df44984238"
+    },
+    {
+      "uid": "1k4t4fuiu0794e9df4d0abc",
+      "begin": 76350,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 76365,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0f467998215aa38"
+    },
+    {
+      "uid": "1k4t4fuiu0780113fc73fd48",
+      "begin": 76665,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 76680,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu042a54e0d6429a"
+    },
+    {
+      "uid": "1k4t4fuiu0c456541f2447f",
+      "begin": 76980,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 76995,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0887ab72a0e9af8"
+    },
+    {
+      "uid": "1k4t4fuiu0d397226f9f577",
+      "begin": 77295,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 77310,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu05de2e68149a9f8"
+    },
+    {
+      "begin": 77610,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0523a460658ed58"
+    },
+    {
+      "uid": "1k4t4fuiu0373bc10b7cf3c",
+      "begin": 77910,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 77925,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0d84caeed55f358"
+    },
+    {
+      "uid": "1k4t4fuiu02ace4dbf86a5c",
+      "begin": 78225,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 78240,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0fd3487996743f8"
+    },
+    {
+      "uid": "1k4t4fuiu0f2719442e81348",
+      "begin": 78540,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 78555,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0c98097103fbc18"
+    },
+    {
+      "uid": "1k4t4fuiu0389b3c825cd38",
+      "begin": 78855,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 78870,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0f7fa62094de718"
+    },
+    {
+      "uid": "1k4t4fuiu07c8fce4bddc728",
+      "begin": 79170,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 79185,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu07e0e81e349343"
+    },
+    {
+      "uid": "1k4t4fuiu0d7ad4023cc8f4",
+      "begin": 79485,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 79500,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0c6b5e9cbd7843"
+    },
+    {
+      "uid": "1k4t4fuiu0dd2e51266154f8",
+      "begin": 79800,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 79815,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0eca86c29c67e98"
+    },
+    {
+      "uid": "1k4t4fuiu0720af5daea6238",
+      "begin": 80115,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 80130,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu05c855dac73e89"
+    },
+    {
+      "uid": "1k4t4fuiu0b3feccf1bda74",
+      "begin": 80430,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 80445,
+      "title": "Deva",
+      "in": 2700,
+      "out": 3000,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0093fc04797bc08"
+    },
+    {
+      "uid": "1k4t4fuiu0c0623c8aabfcc8",
+      "begin": 80745,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 80760,
+      "title": "Deva",
+      "in": 3000,
+      "out": 3300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu092d6b1985a986"
+    },
+    {
+      "uid": "1k4t4fuiu08eca7585e0d5f8",
+      "begin": 81060,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 81075,
+      "title": "Deva",
+      "in": 3300,
+      "out": 3600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0375768eccd37e8"
+    },
+    {
+      "uid": "1k4t4fuiu0657db14161c32",
+      "begin": 81375,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 81390,
+      "title": "Deva",
+      "in": 3600,
+      "out": 3900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0a6c4d4e8ef8428"
+    },
+    {
+      "uid": "1k4t4fuiu0ea1666d50b782",
+      "begin": 81690,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 81705,
+      "title": "Deva",
+      "in": 3900,
+      "out": 4200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0b6b9fe3e3f7cf"
+    },
+    {
+      "uid": "1k4t4fuiu0d23315979dde68",
+      "begin": 82005,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 82020,
+      "title": "Deva",
+      "in": 4200,
+      "out": 4500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu03a57a1dc240508"
+    },
+    {
+      "uid": "1k4t4fuiu01375cf6ef1adf8",
+      "begin": 82320,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 82335,
+      "title": "Deva",
+      "in": 4500,
+      "out": 4800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0c2f006d6eb6fe"
+    },
+    {
+      "uid": "1k4t4fuiu0860102ca3b85a",
+      "begin": 82635,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 82650,
+      "title": "Deva",
+      "in": 4800,
+      "out": 5100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu06797250eca5f08"
+    },
+    {
+      "uid": "1k4t4fuiu0bc77ee936a1e1",
+      "begin": 82950,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 82965,
+      "title": "Deva",
+      "in": 5100,
+      "out": 5400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0cbcb22b2dbfa08"
+    },
+    {
+      "uid": "1k4t4fuiu01e288bc0376c",
+      "begin": 83265,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 83280,
+      "title": "Deva",
+      "in": 5400,
+      "out": 5700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0acef2318e5edd8"
+    },
+    {
+      "begin": 83580,
+      "title": "Deva",
+      "in": 0,
+      "out": 300,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu02eeaa40331d0f"
+    },
+    {
+      "uid": "1k4t4fuiu0f66ee9c6e48b78",
+      "begin": 83880,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 83895,
+      "title": "Deva",
+      "in": 300,
+      "out": 600,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0c2090347f33388"
+    },
+    {
+      "uid": "1k4t4fuiu07043fde65ba3d",
+      "begin": 84195,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 84210,
+      "title": "Deva",
+      "in": 600,
+      "out": 900,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu04a317bed6e7068"
+    },
+    {
+      "uid": "1k4t4fuiu0e538e25d3432a8",
+      "begin": 84510,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 84525,
+      "title": "Deva",
+      "in": 900,
+      "out": 1200,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0b3ce875016cee8"
+    },
+    {
+      "uid": "1k4t4fuiu07fd732399454d",
+      "begin": 84825,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 84840,
+      "title": "Deva",
+      "in": 1200,
+      "out": 1500,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0240c045323a63"
+    },
+    {
+      "uid": "1k4t4fuiu0beeb570354051",
+      "begin": 85140,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 85155,
+      "title": "Deva",
+      "in": 1500,
+      "out": 1800,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0732cfc81ae12f8"
+    },
+    {
+      "uid": "1k4t4fuiu033fb3b29290378",
+      "begin": 85455,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 85470,
+      "title": "Deva",
+      "in": 1800,
+      "out": 2100,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0ffdf2f5789a0d"
+    },
+    {
+      "uid": "1k4t4fuiu0388e56f04cb7a8",
+      "begin": 85770,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 85785,
+      "title": "Deva",
+      "in": 2100,
+      "out": 2400,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0dccc0ecc67608"
+    },
+    {
+      "uid": "1k4t4fuiu02c7edb5a4e8ed",
+      "begin": 86085,
+      "title": "P17MECFP0093",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/P17MECFP0093.ts",
+      "in": 0,
+      "out": 15,
+      "duration": 15.0,
+      "category": "advertisement"
+    },
+    {
+      "begin": 86100,
+      "title": "Deva",
+      "in": 2400,
+      "out": 2700,
+      "duration": 300.0,
+      "scte_marker_type": "splice_insert",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/media/process/L11AFLHM0050.ts",
+      "uid": "1k4t4fuiu0857d20692544a"
+    }
+  ]
+}

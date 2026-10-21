@@ -1,0 +1,23 @@
+{
+  "channel": "2",
+  "date": "2026-08-25",
+  "program": [
+    {
+      "uid": "SE_U8_1",
+      "begin": 0.0,
+      "title": "NAAM SHABANA",
+      "source": "/opt/ffplayout/demo_data/storage/Channel 1/2/Adslate.mp4",
+      "in": 0.0,
+      "out": 15.0,
+      "duration": 15.0,
+      "secondary_events": [
+        {
+          "template": "LATER",
+          "offset": 3.0,
+          "duration": 5.0,
+          "text": "كوميديا رومانسية 2"
+        }
+      ]
+    }
+  ]
+}

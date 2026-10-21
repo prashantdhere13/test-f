@@ -1,0 +1,615 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "mail": "admin@example.com",
+      "password": "$2b$12$.J/rjM5DGZ.hJRBk48R0bu6urUm0fwGQ.HCN.1vlEIVbmZlt38GPS",
+      "role_id": 1,
+      "channel_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "username": "prashant",
+      "mail": "prashantdhere13@gmail.com",
+      "password": "$2b$12$9tIv5.DgNhkXeSJciBRPj.i/Aqr9nnPetP2zJy8N.7l4/FZY6rZbC",
+      "role_id": 1,
+      "channel_ids": [
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "username": "monish",
+      "mail": "monish.kapoor@outlook.com",
+      "password": "$2b$12$U4YIRnn3xtxQJxPUfWPjIOBPi3e2eUGxuwlE4q2IGMxKkVIsCeDB2",
+      "role_id": 1,
+      "channel_ids": [
+        1
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "name": "test_channel",
+      "preview_url": "https://144.31.146.66/1/live/master.m3u8",
+      "public": "/opt/ffplayout/demo_data/public/Channel 1",
+      "playlists": "/opt/ffplayout/demo_data/playlists",
+      "storage": "/opt/ffplayout/demo_data/storage/Channel 1",
+      "extra_extensions": "",
+      "timezone": "Asia/Calcutta",
+      "process": "",
+      "auto_preprocess": true,
+      "playout": {
+        "output": {
+          "id": 1,
+          "mode": "stream",
+          "output_param": "-c:v libx264 -preset veryfast -tune zerolatency -profile:v main -level 4.1 -b:v 2800k -maxrate 2800k -bufsize 5600k -g 50 -c:a aac -b:a 128k -ar 48000 -f mpegts \"udp://127.0.0.1:9001?pkt_size=1316\"",
+          "video_pid": 256,
+          "audio_pid": 257,
+          "pmt_pid": 258,
+          "service_id": 1,
+          "scte_pid": 768,
+          "scte_marker_type": "splice_insert",
+          "hls_variants": [
+            {
+              "name": "1080p",
+              "width": 1920,
+              "height": 1080,
+              "bitrate": "6000k",
+              "audio": "192k"
+            },
+            {
+              "name": "720p",
+              "width": 1280,
+              "height": 720,
+              "bitrate": "2800k",
+              "audio": "128k"
+            },
+            {
+              "name": "480p",
+              "width": 854,
+              "height": 480,
+              "bitrate": "1400k",
+              "audio": "128k"
+            },
+            {
+              "name": "240p",
+              "width": 426,
+              "height": 240,
+              "bitrate": "400k",
+              "audio": "64k"
+            }
+          ]
+        }
+      },
+      "auto_start": true
+    },
+    {
+      "id": 2,
+      "name": "Channel 2",
+      "preview_url": "http://localhost:5757/2/live/stream.m3u8",
+      "public": "/opt/ffplayout/demo_data/public/Channel 2",
+      "playlists": "/opt/ffplayout/demo_data/playlists",
+      "storage": "/opt/ffplayout/demo_data/storage/Channel 2",
+      "extra_extensions": "",
+      "timezone": "Asia/Calcutta",
+      "playout": {
+        "output": {
+          "id": 1,
+          "mode": "stream",
+          "output_param": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f mpegts udp://127.0.0.1:9020?pkt_size=1316",
+          "video_pid": 256,
+          "audio_pid": 257,
+          "pmt_pid": 258,
+          "service_id": 2,
+          "scte_pid": 768,
+          "scte_marker_type": "splice_insert"
+        }
+      }
+    }
+  ],
+  "playout_configs": {
+    "1": {
+      "general": {
+        "stop_threshold": 3
+      },
+      "mail": {
+        "show": false,
+        "subject": "",
+        "recipient": "",
+        "mail_level": "warning",
+        "interval": 0,
+        "smtp_server": "",
+        "smtp_port": 465,
+        "smtp_user": "",
+        "smtp_password": "",
+        "smtp_starttls": false
+      },
+      "logging": {
+        "ffmpeg_level": "INFO",
+        "ingest_level": "ERROR",
+        "detect_silence": true,
+        "ignore_lines": []
+      },
+      "processing": {
+        "mode": "playlist",
+        "audio_only": false,
+        "copy_audio": true,
+        "copy_video": true,
+        "width": 1280,
+        "height": 720,
+        "aspect": 1.778,
+        "fps": 25,
+        "add_logo": true,
+        "logo": "logo/logo.png",
+        "logo_scale": "-1:72",
+        "logo_opacity": 1,
+        "logo_position": "overlay=W-w-20:20",
+        "audio_tracks": 2,
+        "audio_track_index": 0,
+        "audio_channels": 2,
+        "volume": 1,
+        "custom_filter": "",
+        "override_filter": false,
+        "vtt_enable": false,
+        "vtt_dummy": "subtitles/dummy.vtt",
+        "burn_subtitles": true,
+        "subtitle": "",
+        "subtitle_font": "Noto Sans Devanagari",
+        "subtitle_fontsize": 40,
+        "subtitle_position": 2,
+        "scan_type": "progressive",
+        "squeeze_fade": 1.5
+      },
+      "ingest": {
+        "enable": true,
+        "input_param": "-f mpegts -listen 1 -i srt://127.0.0.1:9936?mode=listener",
+        "custom_filter": ""
+      },
+      "playlist": {
+        "day_start": "00:00:00",
+        "length": "24:00:00",
+        "infinit": false,
+        "startInSec": 0,
+        "lengthInSec": 86400
+      },
+      "storage": {
+        "filler": "",
+        "extensions": [
+          "mp4",
+          "mxf",
+          "mpg",
+          "mov",
+          "ts"
+        ],
+        "shuffle": false,
+        "shared_storage": false,
+        "media": "media"
+      },
+      "text": {
+        "add_text": false,
+        "font": "",
+        "text_from_filename": false,
+        "style": "",
+        "regex": ""
+      },
+      "task": {
+        "enable": false,
+        "path": ""
+      },
+      "output": {
+        "id": 1,
+        "mode": "stream",
+        "output_param": "-c:v libx264 -preset veryfast -tune zerolatency -profile:v main -level 4.1 -b:v 2800k -maxrate 2800k -bufsize 5600k -g 50 -c:a aac -b:a 128k -ar 48000 -f mpegts \"udp://127.0.0.1:9001?pkt_size=1316\"",
+        "video_pid": 256,
+        "audio_pid": 257,
+        "pmt_pid": 258,
+        "service_id": 1,
+        "scte_pid": 768,
+        "scte_marker_type": "splice_insert",
+        "hls_variants": [
+          {
+            "name": "1080p",
+            "width": 1920,
+            "height": 1080,
+            "bitrate": "6000k",
+            "audio": "192k"
+          },
+          {
+            "name": "720p",
+            "width": 1280,
+            "height": 720,
+            "bitrate": "2800k",
+            "audio": "128k"
+          },
+          {
+            "name": "480p",
+            "width": 854,
+            "height": 480,
+            "bitrate": "1400k",
+            "audio": "128k"
+          },
+          {
+            "name": "240p",
+            "width": 426,
+            "height": 240,
+            "bitrate": "400k",
+            "audio": "64k"
+          }
+        ]
+      },
+      "quality": {
+        "x264_preset": "veryfast",
+        "crf": null,
+        "video_bitrate": "2800k",
+        "maxrate": "2800k",
+        "bufsize": "5600k",
+        "audio_bitrate": "128k",
+        "sample_rate": 48000
+      },
+      "secondary_events": {
+        "enable": true,
+        "graphic_enable": false,
+        "graphic": "",
+        "graphic_position": "top left",
+        "graphic_scale": 96,
+        "styles": {
+          "nnl": {
+            "position": "top left",
+            "size": 25
+          }
+        }
+      },
+      "hls_variants": [
+        {
+          "name": "1080p",
+          "width": 1920,
+          "height": 1080,
+          "bitrate": "6000k",
+          "audio": "192k"
+        },
+        {
+          "name": "720p",
+          "width": 1280,
+          "height": 720,
+          "bitrate": "2800k",
+          "audio": "128k"
+        },
+        {
+          "name": "480p",
+          "width": 854,
+          "height": 480,
+          "bitrate": "1400k",
+          "audio": "128k"
+        },
+        {
+          "name": "240p",
+          "width": 426,
+          "height": 240,
+          "bitrate": "400k",
+          "audio": "64k"
+        }
+      ],
+      "auto_start": true
+    },
+    "2": {
+      "general": {
+        "stop_threshold": 2
+      },
+      "mail": {
+        "show": false,
+        "subject": "",
+        "recipient": "",
+        "mail_level": "warning",
+        "interval": 0,
+        "smtp_server": "",
+        "smtp_port": 465,
+        "smtp_user": "",
+        "smtp_password": "",
+        "smtp_starttls": false
+      },
+      "logging": {
+        "ffmpeg_level": "warning",
+        "ingest_level": "warning",
+        "detect_silence": false,
+        "ignore_lines": []
+      },
+      "processing": {
+        "mode": "playlist",
+        "audio_only": false,
+        "copy_audio": true,
+        "copy_video": true,
+        "width": 1920,
+        "height": 1080,
+        "aspect": 1.778,
+        "fps": 25,
+        "add_logo": true,
+        "logo": "logo/logo.png",
+        "logo_scale": "",
+        "logo_opacity": 0,
+        "logo_position": "overlay=W-w-20:20",
+        "audio_tracks": 1,
+        "audio_track_index": 0,
+        "audio_channels": 2,
+        "volume": 1,
+        "custom_filter": "",
+        "override_filter": false,
+        "vtt_enable": false,
+        "vtt_dummy": "subtitles/dummy.vtt",
+        "scan_type": "progressive"
+      },
+      "ingest": {
+        "enable": true,
+        "input_param": "-f mpegts -listen 1 -i srt://127.0.0.1:9937?mode=listener",
+        "custom_filter": ""
+      },
+      "playlist": {
+        "day_start": "00:00:00",
+        "length": "24:00:00",
+        "infinit": false,
+        "startInSec": 0,
+        "lengthInSec": 86400
+      },
+      "storage": {
+        "filler": "",
+        "extensions": [
+          "mp4",
+          "mxf",
+          "mpg",
+          "mov"
+        ],
+        "shuffle": false,
+        "shared_storage": false
+      },
+      "text": {
+        "add_text": false,
+        "font": "",
+        "text_from_filename": false,
+        "style": "",
+        "regex": ""
+      },
+      "task": {
+        "enable": false,
+        "path": ""
+      },
+      "output": {
+        "id": 1,
+        "mode": "stream",
+        "output_param": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f mpegts udp://127.0.0.1:9020?pkt_size=1316",
+        "video_pid": 256,
+        "audio_pid": 257,
+        "pmt_pid": 258,
+        "service_id": 2,
+        "scte_pid": 768,
+        "scte_marker_type": "splice_insert"
+      },
+      "quality": {
+        "x264_preset": "",
+        "crf": null,
+        "video_bitrate": "",
+        "maxrate": "",
+        "bufsize": "",
+        "audio_bitrate": "128k",
+        "sample_rate": 48000
+      },
+      "secondary_events": {
+        "enable": true,
+        "graphic_enable": false,
+        "graphic": "",
+        "graphic_position": "bottom right",
+        "graphic_scale": 20,
+        "styles": {
+          "nnl": {
+            "position": "top right",
+            "size": 100
+          }
+        }
+      },
+      "hls_variants": [
+        {
+          "name": "1080p",
+          "width": 1920,
+          "height": 1080,
+          "bitrate": "6000k",
+          "audio": "192k"
+        },
+        {
+          "name": "720p",
+          "width": 1280,
+          "height": 720,
+          "bitrate": "2800k",
+          "audio": "128k"
+        },
+        {
+          "name": "480p",
+          "width": 854,
+          "height": 480,
+          "bitrate": "1400k",
+          "audio": "128k"
+        },
+        {
+          "name": "240p",
+          "width": 426,
+          "height": 240,
+          "bitrate": "400k",
+          "audio": "64k"
+        }
+      ]
+    }
+  },
+  "outputs": [
+    {
+      "id": 1,
+      "name": "Streaming Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f mpegts udp://127.0.0.1:9001?pkt_size=1316",
+      "channel_id": 1
+    },
+    {
+      "id": 2,
+      "name": "HLS Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f hls -hls_time 2 -hls_list_size 5 -hls_flags delete_segments -hls_segment_filename demo_data/channel/1/live/segment_%05d.ts demo_data/channel/1/live/stream.m3u8",
+      "channel_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Desktop Null",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f null",
+      "channel_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Streaming Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f mpegts udp://127.0.0.1:1234",
+      "channel_id": 2
+    },
+    {
+      "id": 5,
+      "name": "HLS Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f hls -hls_time 2 -hls_list_size 5 -hls_flags delete_segments -hls_segment_filename demo_data/channel/2/live/segment_%05d.ts demo_data/channel/2/live/stream.m3u8",
+      "channel_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Desktop Null",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f null",
+      "channel_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Streaming Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f mpegts udp://127.0.0.1:9030?pkt_size=1316",
+      "channel_id": 3
+    },
+    {
+      "id": 8,
+      "name": "HLS Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f hls -hls_time 2 -hls_list_size 5 -hls_flags delete_segments -hls_segment_filename D:/ffplayout-master/ffplayout-master/demo_data/channel/3/live/segment_%05d.ts D:/ffplayout-master/ffplayout-master/demo_data/channel/3/live/stream.m3u8",
+      "channel_id": 3
+    },
+    {
+      "id": 9,
+      "name": "Desktop Null",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f null",
+      "channel_id": 3
+    },
+    {
+      "id": 10,
+      "name": "Streaming Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f mpegts udp://127.0.0.1:9030?pkt_size=1316",
+      "channel_id": 3
+    },
+    {
+      "id": 11,
+      "name": "HLS Output",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f hls -hls_time 2 -hls_list_size 5 -hls_flags delete_segments -hls_segment_filename /opt/ffplayout/demo_data/channel/3/live/variant_1080p_%05d.ts /opt/ffplayout/demo_data/channel/3/live/variant_1080p.m3u8",
+      "channel_id": 3
+    },
+    {
+      "id": 12,
+      "name": "Desktop Null",
+      "parameters": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac -f null",
+      "channel_id": 3
+    }
+  ],
+  "advanced_configs": {
+    "1": {
+      "id": 1,
+      "name": "Default",
+      "decoder": {
+        "input_param": "",
+        "output_param": ""
+      },
+      "encoder": {
+        "input_param": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac"
+      },
+      "filter": {
+        "deinterlace": "",
+        "pad_video": "",
+        "fps": "",
+        "scale": "",
+        "set_dar": "",
+        "fade_in": "",
+        "fade_out": "",
+        "logo": "",
+        "overlay_logo_scale": "",
+        "overlay_logo_fade_in": "",
+        "overlay_logo_fade_out": "",
+        "overlay_logo": "",
+        "tpad": "",
+        "drawtext_from_file": "",
+        "drawtext_from_zmq": "",
+        "aevalsrc": "",
+        "afade_in": "",
+        "afade_out": "",
+        "apad": "",
+        "volume": "",
+        "split": ""
+      },
+      "ingest": {
+        "input_param": "-i \"https://zee-blip-monitoring.amagi.tv/zee1-zaflm/master.m3u8\""
+      }
+    },
+    "2": {
+      "id": 1,
+      "name": "Default",
+      "decoder": {
+        "input_param": "",
+        "output_param": ""
+      },
+      "encoder": {
+        "input_param": "-c:v libx264 -preset veryfast -tune zerolatency -c:a aac"
+      },
+      "filter": {
+        "deinterlace": "",
+        "pad_video": "",
+        "fps": "",
+        "scale": "",
+        "set_dar": "",
+        "fade_in": "",
+        "fade_out": "",
+        "logo": "",
+        "overlay_logo_scale": "",
+        "overlay_logo_fade_in": "",
+        "overlay_logo_fade_out": "",
+        "overlay_logo": "",
+        "tpad": "",
+        "drawtext_from_file": "",
+        "drawtext_from_zmq": "",
+        "aevalsrc": "",
+        "afade_in": "",
+        "afade_out": "",
+        "apad": "",
+        "volume": "",
+        "split": ""
+      },
+      "ingest": {
+        "input_param": ""
+      }
+    }
+  },
+  "presets": {
+    "1": [
+      {
+        "name": "test-msg",
+        "text": "",
+        "x": "0",
+        "y": "0",
+        "fontsize": "24",
+        "line_spacing": "4",
+        "fontcolor": "#ffffff",
+        "box": "1",
+        "boxcolor": "#000000@0xcc",
+        "boxborderw": "4",
+        "alpha": "1",
+        "channel_id": 1,
+        "id": 1
+      }
+    ],
+    "2": []
+  }
+}

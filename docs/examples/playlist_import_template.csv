@@ -1,0 +1,9 @@
+Start,Title,Source,Duration,In,Out,Type
+13:00:00,Adslate,Adslate.mp4,00:00:15:00,,
+13:00:15,Promo 60,AI-60-sec-promo.mp4,00:01:03.000,,
+13:01:18,Ai 30 sec,Ai-30sec.mp4,00:00:33,,
+13:01:51,Feature Film,L11AFLHM0050.mpg,00:30:00,00:00:05,00:30:05,
+13:31:51,Break Bumper,bumpers/break_bumper.mp4,00:00:10,,,
+13:32:01,Commercial Block,,,ad
+13:32:01,Spot 1,spots/spot1.mp4,00:00:20,,,
+13:32:21,Spot 2,spots/spot2.mp4,00:00:15,,,

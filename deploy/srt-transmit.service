@@ -1,0 +1,15 @@
+[Unit]
+Description=SRT bridge: udp://127.0.0.1:9001 -> srt://:5554 (ffplayout relay)
+After=network-online.target ffplayout-playout.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+ExecStartPre=/bin/sleep 5
+ExecStart=/usr/bin/srt-live-transmit -s 5000 -f udp://127.0.0.1:9001 srt://:5554?pkt_size=1316
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
