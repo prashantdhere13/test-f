@@ -70,10 +70,16 @@ __pycache__/
 *.pyc
 /backups/
 
-# Stale local edit snapshots (server.py.bak.* and friends)
+# Stale local edit snapshots (server.py.bak*, and friends)
 *.bak
 *.bak.*
+*.bak[0-9]*
 *.bk
+
+# Empty SQLite file left behind by a stray "ffplayout -i" run - the real
+# database is demo_data/db.json.
+*.sqlite
+*.sqlite3
 
 # Source media (11 GB+) and live HLS output stay on the server.
 demo_data/storage/
